@@ -1,48 +1,33 @@
 # Cybersecurity Writing Portfolio
 
-This repository is the source of truth for long-form cybersecurity writing, security analysis, labor-market analysis, AI security thinking, and distribution-ready public writing.
+This repository collects published cybersecurity writing and supporting source notes.
 
-The technical repositories show hands-on security work. This repository shows written analysis: clear thinking, risk communication, security operations interpretation, and the ability to turn technical work into public-facing proof.
+Current focus:
 
-## Review path
+| Published work | Focus | Review path |
+|---|---|---|
+| [Making Competence Inspectable](essays/001-making-competence-inspectable.md) | Cybersecurity hiring, labor-market structure, proof-building, and making competence visible through serious public artifacts. | Essay -> sources |
+| [Making Competence Inspectable - Spanish](essays/001-making-competence-inspectable-es.md) | Spanish-language version of the essay. | Spanish essay |
+| [Sources for Making Competence Inspectable](sources/001-making-competence-inspectable-sources.md) | Source notes and footnotes supporting the essay. | Source notes |
 
-| Area | Start here |
-|---|---|
-| Essays | [essays/README.md](essays/README.md) |
-| Security operations analysis | [security-operations/README.md](security-operations/README.md) |
-| AI security analysis | [ai-security/README.md](ai-security/README.md) |
-| Labor-market and career analysis | [labor-market-and-career/README.md](labor-market-and-career/README.md) |
-| Source notes | [sources/README.md](sources/README.md) |
-| Distribution drafts | [distribution/README.md](distribution/README.md) |
-| Reviewer proof map | [reviewer-proof-map.md](reviewer-proof-map.md) |
+## Purpose
 
-## Operating model
+The technical repositories show hands-on security work.
 
-| Layer | Purpose |
-|---|---|
-| GitHub repository | Permanent source of truth. |
-| LinkedIn and Substack | Distribution channels. |
-| Main GitHub profile README | Recruiter-facing traffic router. |
-| Sources folder | Evidence, citations, and research notes. |
-| Distribution folder | Platform-specific drafts and launch copy. |
+This repository shows written analysis: clear argument, public reasoning, source discipline, and the ability to explain why technical proof matters in cybersecurity hiring and security work.
 
-## Writing categories
+## Current published writing
 
-| Category | Purpose |
-|---|---|
-| Essays | Long-form arguments and public analysis. |
-| Security operations | SOC, SIEM, detection, investigation, and evidence-handling analysis. |
-| AI security | Agent security, trust architecture, private AI interaction layers, and tool-boundary risk. |
-| Labor market and career | Career strategy, proof-building, hiring-market structure, and competence signaling. |
+### Making Competence Inspectable
 
-## First planned artifact
+A long-form essay on cybersecurity hiring, weakened career ladders, globalized labor-market pressure, institutional trust, and why serious public artifacts can make competence easier to inspect.
 
-| Artifact | Path |
-|---|---|
-| Making Competence Legible | essays/001-making-competence-legible.md |
-| Source notes | sources/001-making-competence-legible-sources.md |
-| LinkedIn draft | distribution/linkedin-posts/001-making-competence-legible-linkedin.md |
+Review:
+
+- [Essay](essays/001-making-competence-inspectable.md)
+- [Spanish version](essays/001-making-competence-inspectable-es.md)
+- [Sources and notes](sources/001-making-competence-inspectable-sources.md)
 
 ## Scope
 
-This repository is not a technical lab notebook. It is a structured writing portfolio designed to make analysis, communication, sourcing, and public proof easier to review.
+This repository only lists published or source-backed writing. Additional sections will be added when there is finished work to justify them.
